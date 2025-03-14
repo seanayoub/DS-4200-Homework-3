@@ -1,0 +1,25 @@
+body {
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    background-color: lightgrey;
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ADCCA3;
+  }
+  
+li.nav {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+.container {
+    display: flex;
+}
+
+.text {
+    font-size: 15px;
+    padding-left: 20px;
+}
