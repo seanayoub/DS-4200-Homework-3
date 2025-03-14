@@ -1,0 +1,16 @@
+Sean Ayoub - Homework 3 Part 1
+
+
+The link to the website:
+
+
+For the styling and customizations that appear on the website, I:
+- Changed the default font to Trebuchet MS, as well as the text's font size
+	and padding in relation to other elements
+- Styled the navigation bar to be a horizontal bar across the top of the page,
+	instead of a list (as it renders originally)
+- Changed the background of the navigation bar to be a light green color that
+	compliments the rest of the page
+- Created a container (div) that includes the image and the text description,
+	and made it so that both elements will display side-by-side in the same
+	row instead of directly on top of each other
