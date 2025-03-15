@@ -1,7 +1,7 @@
 Sean Ayoub - Homework 3 Part 1
 
 
-The link to the website:
+The link to the website: https://seanayoub.github.io/DS-4200-Homework-3/index.html
 
 
 For the styling and customizations that appear on the website, I:
